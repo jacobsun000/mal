@@ -1,2 +1,0 @@
-#!/bin/bash
-exec swipl $(dirname $0)/${STEP:-stepA_mal}.pl "${@}"
